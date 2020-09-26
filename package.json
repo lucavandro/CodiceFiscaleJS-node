@@ -1,0 +1,25 @@
+{
+  "name": "@CodiceFiscaleJS/node",
+  "version": "0.0.1",
+  "description": "A Node.js library to compute, validate and reverse Italian Tax Code (codice fiscale)",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Codice fiscale",
+    "Codice",
+    "fiscale",
+    "node",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Luca Vandro",
+  "license": "CC-BY-ND-4.0",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "ajv": "^6.12.5"
+  }
+}
