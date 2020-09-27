@@ -1,5 +1,5 @@
 {
-  "name": "@CodiceFiscaleJS/node",
+  "name": "codicefiscalejs-node",
   "version": "0.0.1",
   "description": "A Node.js library to compute, validate and reverse Italian Tax Code (codice fiscale)",
   "main": "./src/index.js",

@@ -16,7 +16,7 @@ npm install @CodiceFiscaleJS/node --save
 
 ## Usage
 ```js
-var {compute, reverse, validate} = require('@CodiceFiscaleJS/node');
+var {compute, reverse, validate} = require('@codicefiscalejs-node');
 
 const cf = compute({
     nome: 'Marco',
