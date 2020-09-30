@@ -11,7 +11,7 @@ Please, give your contribution instead: any help is more than welcome!
 ## Installation
 **Node**
 ```sh
-npm install @CodiceFiscaleJS/node --save
+npm install @codicefiscalejs-node --save
 ```
 
 ## Usage
